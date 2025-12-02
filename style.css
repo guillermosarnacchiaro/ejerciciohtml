@@ -1,0 +1,70 @@
+*{
+    font-family: 'Roboto';
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.caja1{
+    height: 1000px;
+    width: 400px;
+    background-color: rgb(41, 41, 41);
+    padding: 10px 20px 60px 20px;
+    margin-left: 200px;
+}
+
+.caja2{
+    height: 54px;
+    width: 90px;
+    background-color: rgb(70, 30, 37);    
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-left: solid 2.5px; color: rgb(255, 112, 127);
+}
+
+.titulo1{
+        color: rgb(205, 205, 205);
+    font-size: 20px;
+    font-weight: 500;
+    position: relative; top: 14px; left: 15px;  
+}
+
+.cajatit2{
+    height: 75px;
+    width: 270px;
+    background-color: rgb(41, 41, 41)
+}
+
+.titulo2{
+    color: #CDCDCD;
+    font-size: 20px;
+    font-weight: 500;
+    position: relative; top: 32px; left: 5px;
+}
+
+
+.cajatit3{
+    height: 45px;
+    width: 300px;
+    background-color: rgb(41, 41, 41)
+}
+
+.titulo3{
+    height: 40px;
+    width: 300px;
+    color: #CDCDCD;
+    font-size: 18px;
+    font-weight: 390;
+    position: relative; top: 10px; left: 14px;
+
+}
+
+.caja3{
+    height: 200px;
+    width: 270px;
+    background-color: rgb(41, 41, 41)
+}
+
+
